@@ -1,0 +1,14 @@
+.carousel-1 {
+    background-image: url("../resource/image/carousel/1.jpg");
+    height: 100vh;
+}
+
+.carousel-2 {
+    background-image: url("../resource/image/carousel/2.jpg");
+    height: 100vh;
+}
+
+.carousel-3 {
+    background-image: url("../resource/image/carousel/3.jpg");
+    height: 100vh;
+}
